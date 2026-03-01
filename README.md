@@ -1,67 +1,82 @@
-# Hi, I'm Hridoy Khan 
-**Data Scientist | Machine Learning Engineer | Azure & MLOps Specialist**  
+# Hi, I'm Hridoy Khan
 
-Passionate about building scalable machine learning solutions and deploying AI models into production. I specialize in:  
-- 🚀 **End-to-End ML Pipelines**: From exploratory analysis to deployment with **Azure ML, Docker, and Kubernetes**  
-- 🤖 **Deep Learning**: Computer Vision, NLP, and Generative AI (e.g., LLMs, Diffusion Models)  
-- ☁️ **Cloud-Native MLOps**: CI/CD for ML, model monitoring, and cloud optimization  
+**Data Engineer | Cloud & Big Data Specialist | ETL & MLOps Enthusiast**
+
+I design and implement **scalable data platforms** and **high-performance pipelines** to enable data-driven decision-making. I focus on building **end-to-end ETL/ELT workflows**, **real-time streaming architectures**, and **cloud-native solutions** that integrate with analytics and AI platforms.
 
 ---
 
-## 🔧 Technical Skills  
-**Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E1?logo=mlflow&logoColor=white)
+## 🔹 Core Competencies
 
-**Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white)
+* 🚀 **Data Engineering Pipelines**: Design and implement ETL/ELT pipelines using **Spark, Delta Lake, Iceberg, and Databricks**
+* ☁️ **Cloud Architecture**: Build secure, scalable solutions on **Azure Data Services, ADLS, and Azure Data Factory**
+* ⚡ **Workflow Automation & Orchestration**: Automate batch and streaming workflows with **Airflow, Kafka, and CI/CD tools**
+* 📊 **Big Data & Analytics**: Support real-time and batch analytics for **decision-making and ML model consumption**
+---
+## 🔧 Technical Skills
 
-**Tools & Frameworks**  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![DevOps](https://img.shields.io/badge/AZURE%20DEVOPS-0078D4?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+**Big Data & Streaming**
+
+![Spark](https://img.shields.io/badge/SPARK-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Airflow](https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/DELTA%20LAKE-2C2F33?style=for-the-badge\&logo=databricks\&logoColor=white)
+
+**Data Platforms & ETL**
+
+![Databricks](https://img.shields.io/badge/DATABRICKS-FF6F00?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/AZURE%20DATA%20FACTORY-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/AZURE%20DATA%20LAKE-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Entra ID](https://img.shields.io/badge/AZURE%20ENTRA%20ID-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Key Vault](https://img.shields.io/badge/AZURE%20KEY%20VAULT-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Access Connector](https://img.shields.io/badge/AZURE%20ACCESS%20CONNECTOR-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+
+**Data Tools & Workflow Automation**
+
+![dbt](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge\&logo=dbt-labs\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Achievements
 
-### 1. Real-Time Image Classification API (Azure + Kubernetes)  
-**Tech Stack**: `Python`, `PyTorch`, `Flask`, `Docker`, `Azure Kubernetes Service (AKS)`  
-- Deployed a ResNet-50 model with 95% accuracy for real-time inference  
-- Automated CI/CD with GitHub Actions and Azure Pipelines  
-- Reduced latency by 40% using Kubernetes horizontal pod autoscaling  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github)](your-repo-link)
-
-### 2. Customer Churn Prediction Pipeline (MLOps)  
-**Tech Stack**: `Azure ML`, `MLflow`, `Kubeflow`, `FastAPI`  
-- Built automated retraining pipeline with drift detection  
-- Served models via Azure Container Instances with 99.9% uptime  
-- Integrated monitoring with Azure Application Insights  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github)](your-repo-link)
-
-### 3. Text-to-SQL Generator (LLM Fine-Tuning)  
-**Tech Stack**: `Hugging Face Transformers`, `Azure Machine Learning`, `ONNX Runtime`  
-- Fine-tuned Llama-2-7B for natural language to SQL conversion  
-- Optimized model with ONNX quantization for 3x faster inference  
-- Deployed as serverless endpoint using Azure Functions  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?logo=github)](your-repo-link)
+* Designed **high-throughput ETL pipelines** handling millions of records per day
+* Implemented **real-time streaming solutions** with Kafka and Spark Structured Streaming
+* Automated **cloud-native workflows** with Airflow and CI/CD pipelines
+* Built **data platforms** integrating Delta Lake, Iceberg, and Databricks for analytics and ML workloads
+* Collaborated with ML teams to deploy **containerized ML models** on Azure Kubernetes Service (AKS)
 
 ---
 
-## 📜 Certifications  
-- **Microsoft Certified: Azure Data Scientist Associate**  
-- **CKAD: Certified Kubernetes Application Developer**  
-- **AWS Certified Machine Learning Specialty** *(optional)*  
+## 📜 Certifications
+
+* **Microsoft Certified: Azure Data Engineer Associate**
+* **Databricks Lakehouse Fundamentals**
+* **Microsoft Certified: Azure Solutions Architect Expert (Optional if earned)**
 
 ---
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/hridoyds/)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium)](your-medium-url)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](rkhridoyinfo@gmail.com)
+## 💡 Professional Summary
+
+I’m passionate about enabling organizations to **leverage their data effectively**, build **reliable pipelines**, and integrate **modern big data and cloud technologies** to drive **actionable insights and scalable solutions**.
 
 ---
+
+✅ This version:
+
+* **Targets Data Engineer roles**
+* Emphasizes **Big Data, Cloud, ETL, and Workflow Automation**
+* Uses **consistent bold Spark-style badges**
+* Looks **professional and easy to scan** for recruiters
+
+---
+
+If you want, I can **also add a “skill badge row at the top”** like a **visual banner** with all your tools in one line, which looks very modern and GitHub-friendly.
+
+Do you want me to do that next?
