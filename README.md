@@ -1,13 +1,11 @@
 <div align="center">
+<br/>
+<!-- ANIMATED TYPING SVG — Auto-updates, zero maintenance -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Data+Engineer+%7C+Cloud+Architect;Lakehouse+%26+Delta+Lake+Specialist;Azure+%7C+AWS+%7C+Databricks+%7C+Terraform;Building+Enterprise+Data+Platforms" alt="Typing SVG" /></a>
+<br/>
 
 <!-- BANNER IMAGE — Upload banner.jpg to your repo's assets/ folder -->
 <img src="assets/banner.jpg" alt="Hridoy Khan - Senior Data Engineer" width="100%"/>
-
-<br/>
-<br/>
-
-<!-- ANIMATED TYPING SVG — Auto-updates, zero maintenance -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Data+Engineer+%7C+Cloud+Architect;Lakehouse+%26+Delta+Lake+Specialist;Azure+%7C+AWS+%7C+Databricks+%7C+Terraform;Building+Enterprise+Data+Platforms" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,29 +16,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hridoy1335&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Hridoy Khan
-role: Senior Data Engineer
-location: Bangladesh
-focus: Enterprise Lakehouse Platforms & Cloud Data Architecture
-
-experience:
-  - Building production-grade data pipelines processing millions of records daily
-  - Designing multi-environment Lakehouse architectures (Bronze → Silver → Gold)
-  - Automating cloud infrastructure with Terraform & Databricks Asset Bundles
-  - Implementing DataOps practices with CI/CD, testing, and monitoring
-
-currently_building: "Multi-cloud Lakehouse platforms with Databricks & Delta Lake"
-learning: "Apache Iceberg, dbt, Kafka Streams, Data Mesh patterns"
-passionate_about: "Data quality engineering, platform reliability, DataOps"
-```
-
----
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -246,14 +221,7 @@ Reusable **Terraform modules** for cloud infrastructure provisioning across AWS 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hridoy1335&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy1335&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy1335&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-</div>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
@@ -277,12 +245,12 @@ Reusable **Terraform modules** for cloud infrastructure provisioning across AWS 
 
 </div>
 
-> ⚠️ *Replace the badges above with your actual certifications. Remove any you don't hold.*
-
 ---
 
-## 💡 Core Competencies
+<div align="left">
 
+## 💡 Core Competencies
+  
 ```
 Data Platform Architecture    ████████████████████  Expert
 Databricks & Spark            ████████████████████  Expert
@@ -295,6 +263,33 @@ Python & PySpark              ████████████████�
 Data Quality Engineering      █████████████████░░░  Advanced
 Streaming (Kafka/Event Hub)   ████████████████░░░░  Proficient
 ```
+
+</div>
+
+---
+
+<div align="left">
+  
+## 🧑‍💻 About Me
+
+```yaml
+name: Hridoy Khan
+role: Senior Data Engineer
+location: Bangladesh
+focus: Enterprise Lakehouse Platforms & Cloud Data Architecture
+
+experience:
+  - Building production-grade data pipelines processing millions of records daily
+  - Designing multi-environment Lakehouse architectures (Bronze → Silver → Gold)
+  - Automating cloud infrastructure with Terraform & Databricks Asset Bundles
+  - Implementing DataOps practices with CI/CD, testing, and monitoring
+
+currently_building: "Multi-cloud Lakehouse platforms with Databricks & Delta Lake"
+learning: "Apache Iceberg, dbt, Kafka Streams, Data Mesh patterns"
+passionate_about: "Data quality engineering, platform reliability, DataOps"
+```
+
+</div>
 
 ---
 
