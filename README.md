@@ -23,7 +23,7 @@
 
 <!-- SKILL ICONS — One-liner, auto-renders beautiful icons -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,aws,python,docker,terraform,github,githubactions,kafka,linux,bash,git,vscode&theme=dark&perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=azure,python,docker,terraform,github,githubactions,kafka,linux,git,vscode,mysql,postgres&theme=dark&perline=6" alt="Tech Stack"/>
 </a>
 
 </div>
