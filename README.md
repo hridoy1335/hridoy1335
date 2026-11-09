@@ -1,32 +1,84 @@
-# Hi, I'm Hridoy 👋
+# Hi, I'm Hridoy Khan 👋
 
-I build data engineering projects that turn raw data into dependable, analytics-ready products. My current focus is on **Python, Databricks, and modern lakehouse architecture**.
+Senior Data Engineer focused on building reliable, scalable, and analytics-ready data platforms.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://www.databricks.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
-## What I work on
+## About Me
 
-- Building **Bronze → Silver → Gold** data pipelines
-- Ingesting and transforming data with **Auto Loader** and **Spark Declarative Pipelines**
-- Applying **data quality checks**, change data capture, and dimensional modeling
-- Preparing governed data for metrics, dashboards, and business analysis
+I design and implement modern data solutions that move organizations from raw, fragmented data to trusted, decision-ready information systems. My work centers on:
 
-## Featured project
+- Data pipeline engineering and ETL/ELT design
+- Lakehouse architecture and medallion modeling
+- Cloud-native data platform implementation
+- Data quality, validation, and governance
+- Business intelligence enablement through clean, structured data layers
+
+## Core Skills
+
+- Python
+- PySpark
+- SQL
+- Databricks
+- Delta Lake
+- Apache Spark
+- Data Modeling
+- ETL/ELT Pipelines
+- Cloud Data Platforms (AWS)
+- Infrastructure as Code (Terraform)
+- Data Quality & Validation
+
+## Featured Work
 
 ### [End-to-End Retail Analytics Platform](https://github.com/hridoy1335/end_to_end_retail_project)
 
-A Databricks-on-AWS retail lakehouse project with streaming ingestion, tested Silver transformations, Gold dimensional models, a Unity Catalog metric view, and an executive dashboard.
+A complete retail data platform built on Databricks and AWS with:
 
-**Built with:** Python · Databricks · Apache Spark · Delta Lake · AWS · Unity Catalog
+- Bronze, Silver, and Gold layered architecture
+- Streaming ingestion and transformation
+- Dimensional modeling for business reporting
+- KPI-ready analytics layer
+- Executive dashboard support
 
-## Explore
+### [Retail Data Engineering Projects](https://github.com/hridoy1335?tab=repositories)
 
-- [Browse my repositories](https://github.com/hridoy1335?tab=repositories)
-- [See my GitHub activity](https://github.com/hridoy1335?tab=overview)
+Exploring and building robust data engineering solutions across ingestion, transformation, orchestration, and analytics.
+
+## Tech Stack
+
+- Languages: Python, SQL
+- Processing: PySpark, Apache Spark
+- Platform: Databricks, AWS
+- Storage: Delta Lake, Data Lake / Cloud storage
+- IaC: Terraform
+- Analytics: BI-ready data models and metrics
+
+## GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy1335&show_icons=true&theme=tokyonight)
+
+## Professional Focus
+
+I enjoy building data systems that are:
+
+- Scalable
+- Production-ready
+- Secure and governed
+- Easy to maintain
+- Designed for business impact
+
+## Connect
+
+- GitHub: [@hridoy1335](https://github.com/hridoy1335)
+- LinkedIn: Add your LinkedIn profile
+- Email: Add your email
+- Portfolio: Add your portfolio
 
 ---
 
-*Interested in data engineering, lakehouse platforms, or analytics? Feel free to explore my projects and connect.*
+"Turning raw data into dependable, business-ready insights."
